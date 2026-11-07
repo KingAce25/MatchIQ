@@ -770,6 +770,6 @@ The long-term goal is to make MatchIQ a comprehensive football intelligence plat
 - View transparent data-driven predictions.
 - Save matches and personalize their experience.
 
-##**MatchIQ — Understand the Game Beyond the Score.**
+**MatchIQ — Understand the Game Beyond the Score.**
 
-##**Developer - King Ace**
+**Developer - King Ace**
