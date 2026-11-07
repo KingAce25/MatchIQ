@@ -772,4 +772,4 @@ The long-term goal is to make MatchIQ a comprehensive football intelligence plat
 
 **MatchIQ — Understand the Game Beyond the Score.**
 
-**Developer - King Ace**
+**Developer - King Ace 👑**
